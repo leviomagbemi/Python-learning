@@ -3,3 +3,4 @@ Learn python before December ending
 clean the code
 Node at home
 New todo
+Walk the dog
