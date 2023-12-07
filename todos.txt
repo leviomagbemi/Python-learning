@@ -1,6 +1,5 @@
-Walk the dog
-Learn python before December ending
-clean the code
-Node at home
-New todo
-Walk the dog
+Master Node.JS
+Master Python
+Learn MongoDB commands
+Master Express
+Middlewares
