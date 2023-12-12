@@ -1,4 +1,0 @@
-Master Node.JS
-Master Python
-Learn Mongodb commands
-Learn middlewares
